@@ -6,7 +6,7 @@ Portable NES console built with Platformio on a ESP 32 Module
 
 ## Development IDE
 
-For development, the platformio ide extension in vscode was used.
+For development, the [platformio])(https://platformio.org) extension in vscode was used.
 Platformio provides more advanced development features over arduino, which are helpful for debugging stack traces.
 
 ## ESP32
